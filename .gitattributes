@@ -1,2 +1,4 @@
+*.ui linguist-language=Cpp
+
 # Auto detect text files and perform LF normalization
 * text=auto
